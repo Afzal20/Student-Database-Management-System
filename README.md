@@ -1,5 +1,5 @@
 # Student Database MAnagement System
-This is my 3rd semester project application with uiser interface
+This is my 3rd semester project application with uiser interface using .NETFramework,Version=v4.7.2
 
 ## How to Run This application
 This application is run only in windows OS
