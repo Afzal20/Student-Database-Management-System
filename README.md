@@ -10,6 +10,7 @@ After download StudentC++.zip file and etract that you can find StudentC++.sln o
 in that zip file you need to open x64/Dubug folder 
 after then you can see a file named StudentC++.exe just open it
 
-## befor you run this application you need to install 
+## befor you run this application you need to install Database 
+if you want to install database you want to dowenload form [hear](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
 ### If you want to install visual Studio you need to download downloading Visual Studio from [hear](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
