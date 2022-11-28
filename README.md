@@ -12,4 +12,4 @@ after then you can see a file named StudentC++.exe just open it
 
 ## befor you run this application you need to install 
 
-### If you want to install visual Studio you need to download downloading Visual Studio from [hear] (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+### If you want to install visual Studio you need to download downloading Visual Studio from [hear](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
