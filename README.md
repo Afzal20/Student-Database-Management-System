@@ -1,4 +1,4 @@
-# Student Database MAnagement System
+# Student Database Management System
 This is my 3rd semester project application with uiser interface using .NETFramework, Version=v4.7.2
 
 ## How to Run This application
